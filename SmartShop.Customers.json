@@ -1,0 +1,119 @@
+[{
+  "_id": {
+    "$oid": "69aa1b2ebd7c8ce22e8d428f"
+  },
+  "customer_id": "C001",
+  "name": "Rachel Zane",
+  "email": "rachel@law.com",
+  "address": {
+    "city": "London",
+    "postcode": "SW1"
+  },
+  "loyalty_points": 550,
+  "interests": [
+    "Tech",
+    "Fitness"
+  ]
+},
+{
+  "_id": {
+    "$oid": "69aa1b2ebd7c8ce22e8d4290"
+  },
+  "customer_id": "C002",
+  "name": "Harvey Specter",
+  "email": "harvey@pearson.com",
+  "address": {
+    "city": "Manchester",
+    "postcode": "M1"
+  },
+  "loyalty_points": 1200,
+  "interests": [
+    "Luxury",
+    "Office"
+  ]
+},
+{
+  "_id": {
+    "$oid": "69aa1b2ebd7c8ce22e8d4291"
+  },
+  "customer_id": "C003",
+  "name": "Mike Ross",
+  "email": "mike@prodigy.com",
+  "address": {
+    "city": "London",
+    "postcode": "E1"
+  },
+  "loyalty_points": 300,
+  "interests": [
+    "Bikes",
+    "Tech"
+  ]
+},
+{
+  "_id": {
+    "$oid": "69aa1b2ebd7c8ce22e8d4292"
+  },
+  "customer_id": "C004",
+  "name": "Donna Paulsen",
+  "email": "donna@coo.com",
+  "address": {
+    "city": "Liverpool",
+    "postcode": "L3"
+  },
+  "loyalty_points": 900,
+  "interests": [
+    "Fashion",
+    "Theater"
+  ]
+},
+{
+  "_id": {
+    "$oid": "69aa1b2ebd7c8ce22e8d4293"
+  },
+  "customer_id": "C005",
+  "name": "Louis Litt",
+  "email": "louis@law.com",
+  "address": {
+    "city": "Birmingham",
+    "postcode": "B1"
+  },
+  "loyalty_points": 750,
+  "interests": [
+    "Finance",
+    "Mudding"
+  ]
+},
+{
+  "_id": {
+    "$oid": "69aa1b2ebd7c8ce22e8d4294"
+  },
+  "customer_id": "C006",
+  "name": "Jessica Pearson",
+  "email": "jessica@boss.com",
+  "address": {
+    "city": "London",
+    "postcode": "W1"
+  },
+  "loyalty_points": 2000,
+  "interests": [
+    "Luxury",
+    "Politics"
+  ]
+},
+{
+  "_id": {
+    "$oid": "69aa1b2ebd7c8ce22e8d4295"
+  },
+  "customer_id": "C007",
+  "name": "Robert Zane",
+  "email": "robert@zane.com",
+  "address": {
+    "city": "London",
+    "postcode": "EC2"
+  },
+  "loyalty_points": 150,
+  "interests": [
+    "Golf",
+    "Law"
+  ]
+}]
